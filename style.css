@@ -1,0 +1,123 @@
+.head{
+    background-color:darkcyan;
+    border:solid;
+    display:flex;
+    justify-content:space-between;
+    padding:40px;
+    font-size: 40px;
+    font-weight:400;
+    color:#ffffff
+     }
+  
+     .note{
+       background-color:#e51414;
+       border: dotted;
+       display:flex;
+    justify-content:space-between;
+    padding:15px;
+    font-size:20px;
+    font-weight:400;
+     }
+  
+  .grid {
+    
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+    position:relative
+  }
+  
+  .grid p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%)
+  }
+  
+  
+  .camel {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 190px;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    background-color:antiquewhite;
+  }
+  
+  .camel:hover img{
+      opacity:0.3;
+  }
+  .chameleon {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    background-color:antiquewhite;
+  }
+  
+  .chameleon:hover img{
+    opacity:0.3;
+  }
+  
+  .cicada {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    background-color:antiquewhite;
+  }
+  
+  .cicada:hover img{
+    opacity:0.3;
+  }
+  
+  .panda {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    background-color :antiquewhite;
+  }
+  
+  .panda:hover img{
+    opacity:0.3;
+  }
+  
+  .pigeon {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    background-color:antiquewhite;
+  }
+  
+  .pigeon:hover img{
+    opacity:0.3;
+  }
+  
+  .teddy {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 190px;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    background-color :antiquewhite;
+  }
+  
+  .teddy:hover img{
+    opacity:0.3;
+  }
